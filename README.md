@@ -42,10 +42,11 @@ I copied the patients, consultations, vitals, provider and providers assignment 
 
 
 ## Operational Insight Report
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Healthcare%20Operations%26Care%20Optimization%20Analysis.jpg)
 
 **2.	To Analyze patient load per provider.**
 I created a measure and used the Dax formular below to get the patient load then I created a visual bar chart. Patient Load by Provider ID across Specialty. This is shown in the above Dashboard. It can be deduced that each provider has the same number of patient load which is 2 patients each.
 
+![image alt]()
 
 ![image alt]
