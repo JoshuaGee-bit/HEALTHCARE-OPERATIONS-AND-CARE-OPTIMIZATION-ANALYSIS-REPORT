@@ -47,6 +47,11 @@ I copied the patients, consultations, vitals, provider and providers assignment 
 **2.	To Analyze patient load per provider.**
 I created a measure and used the Dax formular below to get the patient load then I created a visual bar chart. Patient Load by Provider ID across Specialty. This is shown in the above Dashboard. It can be deduced that each provider has the same number of patient load which is 2 patients each.
 
+![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Patient%20Load%20Measure.jpg)
+
+**3. Overburdened Specialty**
+The overburdened specialty is Endocrinology (D02) with more than two (2) consultations and has the highest number of patients. I created a measure for total consultation then a visual with Total consultation by specialty. The chart can be seen on the above dashboard.
+
 ![image alt]()
 
 ![image alt]
