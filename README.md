@@ -57,6 +57,11 @@ The overburdened specialty is Endocrinology (D02) with more than two (2) consult
 **4.	For the health risk to care demand**
 I created a measure to count the number of patients with high risk and created a risk level vs consultation chart and it was deduced that we had six (6) high risk patients and 1 low risk patient. High-risk patients account for most consultations, which drives operational strain. This chart can be seen in the dashboard above. High risk patients increase demand 
 
+![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/High%20Risk%20care%20Demand.jpg)
+
+**5.	Provider Utilization**
+It is embedded in the above dashboard, I created tables containing Provider Id, Specialty, Patient load, total consultations and high-risk patients. I also created a column chart with Provider utilization and Provider ID
+
 ![image alt]()
 
 ![image alt]
