@@ -30,3 +30,9 @@ This report aims to evaluates provider workload and patient demand to optimize c
 ●	Operational insights report
 ●	Optimization recommendations
 
+## 1.	Clean datasets
+I copied the patients, consultations, vitals, provider and providers assignment dataset from the link provided https://docs.google.com/document/d/1WRah5zfdE4vy5bz3XOFIBx_0YjWxtL_BYkmxKOBxSmo/edit?usp=sharing and pasted it on Microsoft Excel worksheet, after which I saved the documents. Then I opened my Microsoft Power BI to get the above datasets I saved from Ms. Excel, it loaded to the power query where I was able to clean, transform the datasets.
+
+## Datasets
+![image alt]()
+
