@@ -35,7 +35,7 @@ I copied the patients, consultations, vitals, provider and providers assignment 
 
 ## Datasets
 ![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Patient's%20Table.jpg)
+![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Consultation%20Table.jpg)
 ![image alt]()
-![image alt]
 ![image alt]
 ![image alt]
