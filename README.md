@@ -73,4 +73,4 @@ It is embedded in the above dashboard, I created tables containing Provider Id, 
 - Balance workload across locations
 
 
-![image alt]
+
