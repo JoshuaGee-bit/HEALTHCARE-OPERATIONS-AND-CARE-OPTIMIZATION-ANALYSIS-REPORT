@@ -54,4 +54,9 @@ The overburdened specialty is Endocrinology (D02) with more than two (2) consult
 
 ![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Total%20Consultation.jpg)
 
+**4.	For the health risk to care demand**
+I created a measure to count the number of patients with high risk and created a risk level vs consultation chart and it was deduced that we had six (6) high risk patients and 1 low risk patient. High-risk patients account for most consultations, which drives operational strain. This chart can be seen in the dashboard above. High risk patients increase demand 
+
+![image alt]()
+
 ![image alt]
