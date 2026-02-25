@@ -52,6 +52,6 @@ I created a measure and used the Dax formular below to get the patient load then
 **3. Overburdened Specialty**
 The overburdened specialty is Endocrinology (D02) with more than two (2) consultations and has the highest number of patients. I created a measure for total consultation then a visual with Total consultation by specialty. The chart can be seen on the above dashboard.
 
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Total%20Consultation.jpg)
 
 ![image alt]
