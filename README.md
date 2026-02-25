@@ -38,5 +38,14 @@ I copied the patients, consultations, vitals, provider and providers assignment 
 ![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Consultation%20Table.jpg)
 ![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Vitals%20Table.jpg)
 ![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Provider%20table.jpg)
+![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Provider%20Assignment%20Table.jpg)
+
+
+## Operational Insight Report
 ![image alt]()
+
+**2.	To Analyze patient load per provider.**
+I created a measure and used the Dax formular below to get the patient load then I created a visual bar chart. Patient Load by Provider ID across Specialty. This is shown in the above Dashboard. It can be deduced that each provider has the same number of patient load which is 2 patients each.
+
+
 ![image alt]
