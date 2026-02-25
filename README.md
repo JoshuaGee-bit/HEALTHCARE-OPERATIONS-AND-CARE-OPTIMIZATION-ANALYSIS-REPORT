@@ -62,6 +62,6 @@ I created a measure to count the number of patients with high risk and created a
 **5.	Provider Utilization**
 It is embedded in the above dashboard, I created tables containing Provider Id, Specialty, Patient load, total consultations and high-risk patients. I also created a column chart with Provider utilization and Provider ID
 
-![image alt]()
+![image alt](https://github.com/JoshuaGee-bit/HEALTHCARE-OPERATIONS-AND-CARE-OPTIMIZATION-ANALYSIS-REPORT/blob/main/Provider%20Assignment%20Measure.jpg)
 
 ![image alt]
